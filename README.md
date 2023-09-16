@@ -1,1 +1,1 @@
-<img src="https://github.com/Umersaeed81/linkedin/blob/main/TT8.png)https://github.com/Umersaeed81/linkedin/blob/main/TT8.png" align="center" alt="Girl in a jacket" width="800" height="1000" align="center"/>
+<img src="https://github.com/Umersaeed81/linkedin/blob/main/TT8.png)https://github.com/Umersaeed81/linkedin/blob/main/TT8.png" align="center"/>
