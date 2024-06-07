@@ -46,25 +46,6 @@ This Python script that performs the following tasks:
 6. If it's a file, it removes it.
 
 
-```python
-Image(url='https://github.com/Umersaeed81/linkedin/blob/main/Python_Script_Collection_for_File_Management/Clearing_Files_Specific_Directory.png?raw=true')
-```
 
-
-
-
-<img src="https://github.com/Umersaeed81/linkedin/blob/main/Python_Script_Collection_for_File_Management/Clearing_Files_Specific_Directory.png?raw=true"/>
-
-
-
-
-```python
-Image(url='https://github.com/Umersaeed81/linkedin/blob/main/log/sf_log.png?raw=true')
-```
-
-
-
-
-<img src="https://github.com/Umersaeed81/linkedin/blob/main/log/sf_log.png?raw=true"/>
 
 
