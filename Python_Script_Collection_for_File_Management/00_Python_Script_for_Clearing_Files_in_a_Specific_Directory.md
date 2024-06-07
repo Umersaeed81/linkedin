@@ -1,15 +1,3 @@
-```python
-from IPython.display import Image
-Image(url='https://github.com/Umersaeed81/linkedin/blob/main/log/t_log.png?raw=true')
-```
-
-
-
-
-<img src="https://github.com/Umersaeed81/linkedin/blob/main/log/t_log.png?raw=true"/>
-
-
-
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)
 Sr. RF Planning & Optimization Engineer<br>
 BSc Telecommunications Engineering, School of Engineering<br>
