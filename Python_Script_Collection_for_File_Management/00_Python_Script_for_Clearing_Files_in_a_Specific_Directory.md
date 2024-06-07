@@ -34,7 +34,7 @@ This Python script that performs the following tasks:
 6. If it's a file, it removes it.
 
 
-![screenshot]([screenshot.png](https://github.com/Umersaeed81/linkedin/blob/main/log/t_log.png?raw=true))
 
 
+[<img src="path/to/image.png">]https://github.com/Umersaeed81/linkedin/blob/main/log/t_log.png?raw=true)
 
